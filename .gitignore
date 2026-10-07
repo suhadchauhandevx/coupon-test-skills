@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+# generated workbooks contain client data; keep them out of this repo
+*.xlsx
